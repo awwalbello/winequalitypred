@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project aims to predict the quality of red and white wines based on their physicochemical properties using machine learning models. The dataset includes various chemical attributes such as alcohol content, acidity, and residual sugar, which influence wine quality ratings.
+In this project machine learning models are used to predict the quality of red and white wines based on their physicochemical characteristics. Chemical characteristics that affect wine quality ratings such as residual sugar acidity and alcohol content that are included in the dataset. 
 
 ## 📂 Dataset
 
